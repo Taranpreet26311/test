@@ -63,4 +63,7 @@ class Jira(object):
 if __name__ == '__main__':
 	MyJira = Jira(username='Taran Singh', password='Vcbxe6gccR8cExcWkIe5E9B0')
 	print(MyJira.getProjects())
-	print(MyJira.getIssues(project='SD',condition='AND',status='Closed'))
+	print(MyJira.getIssues(project='SD',condition='AND',status='Closed'))]
+
+
+	#This code doesnt work
