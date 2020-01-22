@@ -6,4 +6,4 @@ print(issue.fields.project.key)
 print(issue.fields.issuetype.name) 
 print(issue.fields.reporter.displayName)
 print(issue.fields.summary)
-#Some code
+#Some code updated
