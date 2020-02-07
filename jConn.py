@@ -66,4 +66,4 @@ if __name__ == '__main__':
 	print(MyJira.getIssues(project='SD',condition='AND',status='Closed'))]
 
 
-	#This code doesnt work
+	
